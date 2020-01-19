@@ -103,7 +103,9 @@ Zadanie 9 plik lab2.9.py -
 Proszę utworzyć listę a = [1, 2, 3, 4, 5, 6, 7, 8] nie używając pętli ale używając funkcji
 range(). Następnie przy pomocy pętli for wyświetl tylko wartości od 1 do 4, zgodnie ze
 wzorem.
+
 Moja lista: [1, 2, 3, 4, 5, 6, 7, 8]
+
 ----------------
 1
 2
