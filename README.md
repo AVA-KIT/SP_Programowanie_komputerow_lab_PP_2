@@ -2,7 +2,7 @@
 Studia podyplomowe Podstawy programowania - Python, Wydział Informatyki, ZUT w Szczecinie
 Laboratorium 2: Listy, krotki, słowniki, instrukcja warunkowa, pętle
 
-Zadanie 1 - plik lab2.1.py:
+Zadanie 1 - plik lab2.1.py -
 Organizujemy listę przebojów.
 1. Utwórz listę hitsTitles zawierającą tytuły: 'BROTHERS IN ARMS','BOHEMIAN
 RHAPSODY','STAIRWAY TO HEAVEN','RIDERS ON THE STORM','WISH YOU WERE
@@ -32,7 +32,7 @@ zawierającą te dwa tytuły.
 STORM'. Wyświetl ile razy te piosenki występują na liście hitsToRead.
 15. Audycja się kończy. Wyczyść listę hitsToRead
 
-Zadanie 2 - plik lab2.2.py:
+Zadanie 2 - plik lab2.2.py -
 Analizujesz wydajność kanałów, jakimi można dotrzeć do klientów. Każdorazowo po
 zmianie słownika wyświetl jego zawartość.
 1. Utwórz obiekt dictionary o nazwie chanels z następującymi kluczami i
@@ -49,7 +49,7 @@ Utwórz nowy słownik chanelsUpdate z kluczami i wartościami:
 5. Wyświetl wszystkie klucze z chanels
 6. Usuń wartość 'Email' ze słownika
 
-Zadanie 3: (if – else) - plik lan2.3.py
+Zadanie 3: (if – else) - plik lan2.3.py -
 Twój zespół opracowuje przeglądarkę internetową w Pythonie! Twoim zadaniem jest
 sprawdzenie czy operacja pobierania pliku na dysk ma szansę się udać, czy jest od razu
 skazana na porażkę ze względu na brak miejsca na dysku. Wykorzystaj zmienne: diskSize
@@ -62,17 +62,17 @@ wolnego miejsca na dysku wyświetli komunikat "Pobranie pliku zakończone sukces
 W przypadku, gdy plik jest za duży, ma być wyświetlony komunikat o braku miejsca na
 dysku.
 
-Zadanie 4: (if – elif – else) - plik lab2.4.py
+Zadanie 4: (if – elif – else) - plik lab2.4.py -
 Napisz program, który pobierze od użytkownika dwie wartości całkowite. Sprawdź, która
 wartość jest większa i wyświetl właściwy komunikat, podając pobrane wartości, np. dla
 wartości 4 i 6, wyświetl: 4 < 6, a dla wartości 4 i 4 wyświetl, że 4 == 4.
 
-Zadanie 5 - plik lab2.5.py
+Zadanie 5 - plik lab2.5.py -
 Napisz program, który będzie sprawdzał czy podana przez użytkownika liczba jest
 parzysta czy nieparzysta. Jako wynik powinien pojawić́ się̨ komunikat z odpowiednią
 informacją.
 
-Zadanie 6 plik lab2.6.py
+Zadanie 6 plik lab2.6.py -
 Napisz skrypt, który wyświetli poniższy ciąg wartości:
 0 1 2 3 4 5
 przy pomocy:
@@ -80,12 +80,12 @@ przy pomocy:
 • pętli while
 • pętli for wspartej listą, która będzie zawierała w/w wartości
 
-Zadanie 7 plik lab2.7.py
+Zadanie 7 plik lab2.7.py -
 Napisz skrypt, który wyświetli ciąg wartości: 9 7 5 3 1, przy pomocy pętli for,
 wykorzystując 3 różne sposoby. W wyniku na ekranie mają pojawić się trzy ciągi, każdy
 w osobnej linii.
 
-Zadanie 8 plik lab2.8.py
+Zadanie 8 plik lab2.8.py -
 Wykorzystując trzy różne sposoby, proszę za pomocą pętli for uzyskać poniższy ciąg:
 1 a
 1 b
@@ -99,7 +99,7 @@ Wykorzystując trzy różne sposoby, proszę za pomocą pętli for uzyskać poni
 W wyniku na ekranie mają pojawić się trzy ciągi (zgodne ze wzorem), oddzielone jedną
 pustą linią.
 
-Zadanie 9 plik lab2.9.py
+Zadanie 9 plik lab2.9.py -
 Proszę utworzyć listę a = [1, 2, 3, 4, 5, 6, 7, 8] nie używając pętli ale używając funkcji
 range(). Następnie przy pomocy pętli for wyświetl tylko wartości od 1 do 4, zgodnie ze
 wzorem.
@@ -110,7 +110,7 @@ Moja lista: [1, 2, 3, 4, 5, 6, 7, 8]
 3
 4
 
-Zadanie 10 plik lab2.10.py
+Zadanie 10 plik lab2.10.py -
 Proszę znaleźć wszystkie liczby z przedziału <1,20>, które dzielą się bez reszty przez 3.
 3
 6
