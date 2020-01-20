@@ -52,8 +52,8 @@ Utwórz nowy słownik chanelsUpdate z kluczami i wartościami:
 Zadanie 3: (if – else) - plik lan2.3.py -
 Twój zespół opracowuje przeglądarkę internetową w Pythonie! Twoim zadaniem jest
 sprawdzenie czy operacja pobierania pliku na dysk ma szansę się udać, czy jest od razu
-skazana na porażkę ze względu na brak miejsca na dysku. Wykorzystaj zmienne: diskSize
-- zmienna numeryczna (np. o wartości np. 140) oznaczająca wielkość dysku w GB,
+skazana na porażkę ze względu na brak miejsca na dysku. Wykorzystaj zmienne: diskSize-
+zmienna numeryczna (np. o wartości np. 140) oznaczająca wielkość dysku w GB,
 diskSizeUsed - zmienna numeryczna (np. o wartości np. 100) oznaczająca ilość zajętego
 miejsca na dysku w GB, fileSize - zmienna numeryczna (oznaczająca wielkość
 pobieranego pliku w GB), do której pobierzesz wartość od użytkownika.
