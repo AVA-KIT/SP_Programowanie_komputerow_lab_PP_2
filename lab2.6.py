@@ -1,4 +1,4 @@
-a = 0
+a=0
 
 for i in range(6):
     print(a, end=" ")
@@ -6,7 +6,7 @@ for i in range(6):
 
 print()
 
-b = 0
+b=0
 
 while b <= 5:
     print(b, end=" ")
