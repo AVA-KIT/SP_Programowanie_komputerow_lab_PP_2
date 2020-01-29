@@ -24,6 +24,6 @@ for x in range(5):
         lista.append(9)
     else:
         lista.append(lista[-1] - 2)
-for i in range(len(lista)):
-    print(lista[i], end=" ")
+for i in lista:
+    print(i, end=" ")
 
